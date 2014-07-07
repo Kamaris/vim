@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -20,14 +19,11 @@ Bundle "honza/vim-snippets"
 call vundle#end()            " required
 filetype plugin indent on    " required
 "
-=======
->>>>>>> 5de11feb58d820da8bf3d4ca8c6c2f34f8c88a9c
 set syntax=on
 set number
 set incsearch
 set ignorecase
 set hlsearch
-<<<<<<< HEAD
 
 highlight Comment ctermfg=lightblue
 
@@ -46,9 +42,7 @@ set autoindent
 set softtabstop=4 shiftwidth=4 expandtab
 
 " supertab
-au FileType python set omnifunc=pythoncomplete#Complete
-let g:SuperTabDefaultCompletionType = "context"
-set completeopt=menuone,longest,preview"
-=======
-highlight Comment ctermfg=lightblue
->>>>>>> 5de11feb58d820da8bf3d4ca8c6c2f34f8c88a9c
+"au FileType python set omnifunc=pythoncomplete#Complete
+""let g:SuperTabDefaultCompletionType = "context"
+""set completeopt=menuone,longest,preview"
+""highlight Comment ctermfg=lightblue
