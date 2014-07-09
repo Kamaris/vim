@@ -10,3 +10,18 @@
 [submodule "bundle/bundle/supertab"]
 	path = bundle/bundle/supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule "/home/kamaris/.vim/bundle/vundle"]
+	path = /home/kamaris/.vim/bundle/vundle
+	url = https://github.com/gmarik/vundle.git
+[submodule "/home/kamaris/.vim/bundle/tlib_vim"]
+	path = /home/kamaris/.vim/bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "/home/kamaris/.vim/bundle/vim-addon-mw-utils"]
+	path = /home/kamaris/.vim/bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "/home/kamaris/.vim/bundle/vim-snipmate"]
+	path = /home/kamaris/.vim/bundle/vim-snipmate
+	url = https://github.com/honza/snipmate-snippets.git
+[submodule "/home/kamaris/.vim/bundle/vim-snippets"]
+	path = /home/kamaris/.vim/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
